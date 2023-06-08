@@ -8,6 +8,6 @@ Horiseon helps companies improve their visibility and find the right customers, 
 
 Links(Search Engine Optimization, Online Reputation Management, and Social Media Marketing) can be clicked which will result in a jump to that location on the website.
 
-![Website Screenshot](./Develop/assets/images/screenshot.png)
+![Website Screenshot](./docs/assets/images/screenshot.png)
 
 You can check out the website though this [link](https://ryansheehy0.github.io/Module_1_Challenge).
