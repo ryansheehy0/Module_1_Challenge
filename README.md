@@ -10,4 +10,4 @@ Links(Search Engine Optimization, Online Reputation Management, and Social Media
 
 ![Website Screenshot](./Develop/assets/images/screenshot.png)
 
-You can chekc out the website not with this [link]().
+You can check out the website though this [link](https://ryansheehy0.github.io/Module_1_Challenge).
