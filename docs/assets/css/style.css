@@ -24,7 +24,7 @@ body {
 	color: #d9dcd6; /*gray*/
 }
 
-.header div {
+.header navbar {
 	padding-top: 15px;
 	margin-right: 20px;
 	float: right;
@@ -32,11 +32,11 @@ body {
 	font-size: 20px;
 }
 
-.header div ul {
+.header navbar ul {
 	list-style-type: none; /* No bullet points */
 }
 
-.header div ul li {
+.header navbar ul li {
 	display: inline-block;
 	margin-left: 25px;
 }
